@@ -1,0 +1,46 @@
+{
+  "define": {
+    "giris": "/api/login",
+    "Katlar": "/api/floors",
+    "Masalar": "/api/tables",
+    "Urunler": "/api/products",
+    "BagliAltUrun":"/api/connected-products",
+    "MasaAdisyon":"/api/table-orders",
+    "Yetkiler":"/api/roles",
+    "SiparisMiktarAzalt":"/api/order-quantity",
+    "SiparisMiktarArttir":"/api/order-quantity",
+    "MasaSiparisUrunSil":"/api/delete-orders",
+    "UrunEkle":"/api/add-order",
+    "MenuDetay":"/api/menu-details/",
+    "MenuDuzenle":"/api/add-order/",
+    "MasaDetay":"/api/table-details",
+    "AdisyonYazdir":"//api/print",
+    "MasaBirlestir":"/api/merge-table",
+    "MasaAyir":"/api/unmerge-table",
+    "Aciklama":"/api/descriptions",
+    "AciklamaGuncelle":"/api/update-description",
+    "MasaDegistir":"/api/change-table",
+    "versiyon":"v1.2",
+    "sdt":"01.07.2019",
+    "defaultIP":"188.59.190.202:2233",
+    "renkler":{
+        "arkaplan":"#F1F1F1",
+        "borderGri":"#707070",
+        "butonGri":"#E6E6E6",
+        "butonGri2":"#CCC",
+        "butonGri3":"#FBFBFB",
+        "maviKoyu":"#075f99",
+        "maviFlatKoyu":"#2980b9",
+        "maviFlatAcik":"#3498db",
+        "mavi":"#0361BF",
+        "siyah":"#232323",
+        "beyaz":"#fff",
+        "kirmiziAcik":"#ffd3ce",
+        "buzMavi":"#c1e6ff",
+        "kirmiziKoyu":"#c0392b",
+        "yesil":"#27ae60",
+        "maviBorder":"#0060BF"
+    }
+
+  }
+}
